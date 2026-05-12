@@ -11,8 +11,7 @@ I received my B.Eng. in Artificial Intelligence from the **School of Future Scie
 I work on **large language models, RAG, agents, and production-ready AI systems**, from modeling to deployment and integration.
 
 ## Education
-**Soochow University** · School of Future Science and Engineering
-B.Eng. in Artificial Intelligence · *Sept 2021 – Jun 2025*
+**Soochow University** · School of Future Science and Engineering · B.Eng. in Artificial Intelligence · *Sept 2021 – Jun 2025*
 - GPA: 3.5 / 4.0  
 - Coursework: image processing, computer vision, machine learning, deep learning, neural networks
 
