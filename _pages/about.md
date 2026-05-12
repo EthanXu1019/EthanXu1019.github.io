@@ -11,15 +11,13 @@ I received my B.Eng. in Artificial Intelligence from the **School of Future Scie
 I work on **large language models, RAG, agents, and production-ready AI systems**, from modeling to deployment and integration.
 
 ## Education
-**Soochow University** · School of Future Science and Engineering · B.Eng. in Artificial Intelligence · *Sept 2021 – Jun 2025*
+**Soochow University** · School of Future Science and Engineering
+B.Eng. in Artificial Intelligence · *Sept 2021 – Jun 2025*
 - GPA: 3.5 / 4.0  
 - Coursework: image processing, computer vision, machine learning, deep learning, neural networks
 
 ## Working experience
-
 **Algorithm Engineer** · Hangzhou Zhijuan Xingqiu (杭州智卷星球) · *Apr 2026 – present*  
-
-- Building and shipping **algorithm / ML systems** in production (details: model training, evaluation, deployment, and iteration as appropriate to your team).  
 
 ## Selected Projects
 ### AsteriaDoctor: Clinical Q&A with LLMs and a Medical Knowledge Vector Store
