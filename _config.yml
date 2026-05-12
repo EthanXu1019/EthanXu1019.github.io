@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh-CN"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Yihang Xu's homepage"
 title_separator          : "-"
 name                     : &name "Yihang Xu"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "徐一航 (Yihang Xu)"
   pronouns         : "男"# example: "she/her"  
-  bio              : "XXXXXXXXXXXXXXXXXXXXXXX"
+  bio              : "AI algorithm engineer working on large language models and agent systems."
   location         : "中国 浙江 杭州"
   employer         : "Soochow University"
   uri              : "https://ethanxu1019.github.io"
