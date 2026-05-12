@@ -15,6 +15,12 @@ I work on **large language models, RAG, agents, and production-ready AI systems*
 - GPA: 3.5 / 4.0  
 - Coursework: image processing, computer vision, machine learning, deep learning, neural networks
 
+## Working experience
+
+**Algorithm Engineer** · Hangzhou Zhijuan Xingqiu (杭州智卷星球) · *Apr 2026 – present*  
+
+- Building and shipping **algorithm / ML systems** in production (details: model training, evaluation, deployment, and iteration as appropriate to your team).  
+
 ## Selected Projects
 ### AsteriaDoctor: Clinical Q&A with LLMs and a Medical Knowledge Vector Store
 Built an intelligent doctor–patient Q&A and decision-support system that combines **LLMs with a domain knowledge vector store** to improve factual accuracy and reduce hallucinations in medical settings.
