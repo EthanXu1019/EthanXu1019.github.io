@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yihang Xu (Ethan Xu)"
   pronouns         : "he/him | 2002"# example: "she/her"  
   bio              : "AI algorithm engineer working on large language models and agent systems."
