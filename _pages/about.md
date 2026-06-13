@@ -22,7 +22,8 @@ I work on **large language models, RAG, agents, and production-ready AI systems*
 ### AsteriaDoctor: Clinical Q&A with LLMs and a Medical Knowledge Vector Store
 Built an intelligent doctor–patient Q&A and decision-support system that combines **LLMs with a domain knowledge vector store** to improve factual accuracy and reduce hallucinations in medical settings.
 - Core modeling: **BioBERT + ChatGLM2-6B** backbone, **FFN**-based semantic encoding of patient queries, and a medical vector index for precise retrieval; chain-of-thought style reasoning for richer case analysis; dual-role (patient / physician) token routing for guided answers.  
-- Product positioning vs. **MedGPT**, **BioMedLM**, and similar systems on accuracy, feature completeness, and cost (~**CNY 1,500 per million tokens**); APIs and documentation for integration; supports knowledge-base refresh and fine-tuning; connected to hospital information systems, piloted with datasets at the affiliated hospital of Soochow University.  
+- Product positioning vs. **MedGPT**, **BioMedLM**, and similar systems on accuracy, feature completeness, and cost (~**CNY 1,500 per million tokens**); APIs and documentation for integration; supports knowledge-base refresh and fine-tuning; connected to hospital information systems, piloted with datasets at the affiliated hospital of Soochow University.
+  
 ### Zhisao Tong: Agent-Based Customer Support for Robot Vacuums
 An **Agent + LangChain** customer-service stack with **RAG** and a **ReAct**-style workflow for complex, knowledge-intensive user questions.
 - Led the **Agent** architecture and LangChain orchestration for semantic retrieval and answer generation.  
