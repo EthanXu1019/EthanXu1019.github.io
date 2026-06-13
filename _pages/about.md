@@ -16,7 +16,7 @@ I work on **large language models, RAG, agents, and production-ready AI systems*
 - Coursework: image processing, computer vision, machine learning, deep learning, neural networks
 
 ## Working experience
-**Algorithm Engineer** · Hangzhou Zhijuan Xingqiu (杭州智卷星球) · *Apr 2026 – present*  
+**Algorithm Engineer** · Hangzhou XingQiuZhiSuan (杭州星球智算) · *Apr 2026 – present*  
 
 ## Selected Projects
 ### AsteriaDoctor: Clinical Q&A with LLMs and a Medical Knowledge Vector Store
